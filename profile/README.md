@@ -1,4 +1,4 @@
-[endoflife.date](https://endoflife.date) is an informational website that tracks support cycles and release schedules of over 340 products.
+[endoflife.date](https://endoflife.date) is an informational website that tracks support cycles and release schedules of over 400 products.
 
 Not all product websites can easily answer the question: "How long is this product supported?".
 We track it, and showcase exact dates along with a concise summary of the release policy.
